@@ -16,7 +16,7 @@
     font-weight: 900;
 }
 
-.first .text {
+.first, .forth .text {
     font-size: 18px;
     color: #E5E7EB;
 }
@@ -72,5 +72,14 @@ ul {
 
 .quote {
     font-weight: bold;
+}
+
+.forth {
+    display: flex;
+    justify-content: center;
+}
+
+.box {
+    background-color: #3882F6;
 }
 
