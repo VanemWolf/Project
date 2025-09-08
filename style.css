@@ -16,7 +16,7 @@
     font-weight: 900;
 }
 
-.first, .forth .text {
+.first, .forth, .footer .text {
     font-size: 18px;
     color: #E5E7EB;
 }
@@ -83,3 +83,8 @@ ul {
     background-color: #3882F6;
 }
 
+.footer {
+    display: flex;
+    background-color: #1F2937;
+    justify-content: center;
+}
