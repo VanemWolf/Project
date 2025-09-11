@@ -57,14 +57,14 @@ ul {
     display: flex;
     margin-top: 20px;
     justify-content: space-between;
-    padding-left: 200px;
-    padding-right: 200px;
+    padding-left: 250px;
+    padding-right: 250px;
     margin-bottom: 75px;
  }
 
  .container {
-    padding-left: 200px;
-    padding-right: 200px;
+    padding-left: 250px;
+    padding-right: 250px;
     display: flex;
     flex-direction: row;
     gap: 400px;
